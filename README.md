@@ -7,6 +7,7 @@ https://areednehvi.github.io/
 | --- | --- |
 | All apps | https://areednehvi.github.io/ |
 | BotCraft privacy policy | https://areednehvi.github.io/botcraft/privacy/ |
+| Shadow Detective privacy policy | https://areednehvi.github.io/shadowdetective/privacy/ |
 
 ## Adding a new app
 
